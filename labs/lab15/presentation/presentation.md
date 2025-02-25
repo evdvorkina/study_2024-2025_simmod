@@ -1,14 +1,13 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Структура научной презентации
-subtitle: Простейший шаблон
+title: Лабораторная работа №1
+subtitle: Простые модели компьютерной сети
 author:
-  - Кулябов Д. С.
+  - Дворкина Е. В.
 institute:
   - Российский университет дружбы народов, Москва, Россия
-  - Объединённый институт ядерных исследований, Дубна, Россия
-date: 01 января 1970
+date: 14 февраля 2025
 
 ## i18n babel
 babel-lang: russian
@@ -25,24 +24,22 @@ header-includes:
  - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
 ---
 
-# Информация
-
 ## Докладчик
 
 :::::::::::::: {.columns align=center}
 ::: {.column width="70%"}
 
-  * Кулябов Дмитрий Сергеевич
-  * д.ф.-м.н., профессор
-  * профессор кафедры прикладной информатики и теории вероятностей
+  * Дворкина Ева Владимировна
+  * студентка
+  * группа НФИбд-01-22
   * Российский университет дружбы народов
-  * [kulyabov-ds@rudn.ru](mailto:kulyabov-ds@rudn.ru)
-  * <https://yamadharma.github.io/ru/>
+  * [1132226447@rudn.ru](mailto:1132226447@rudn.ru)
+  * <https://github.com/evdvorkina>
 
 :::
 ::: {.column width="30%"}
 
-![](./image/kulyabov.jpg)
+![](./image/я.jpg)
 
 :::
 ::::::::::::::
