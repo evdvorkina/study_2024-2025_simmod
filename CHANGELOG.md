@@ -1,4 +1,25 @@
-## [1.0.10](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.9...v1.0.10) (2025-02-10)
+
+n.n.n / 2025-03-02
+==================
+
+  * feat(exercise): exercise xcos added
+  * feat(lab04): lab added
+  * lab2 abd lab3 was added
+  * lab2 abd lab3 was added
+  * add lab1 and programs
+  * lab1 and pregrams
+  * feat(main): make course structure
+  * feat(main): make course structure
+  * Initial commit
+  * feat(exercise): exercise xcos added
+  * feat(lab04): lab added
+  * lab2 abd lab3 was added
+  * lab2 abd lab3 was added
+  * add lab1 and programs
+  * lab1 and pregrams
+  * feat(main): make course structure
+  * feat(main): make course structure
+  * Initial commit## [1.0.10](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.9...v1.0.10) (2025-02-10)
 
 
 ### Features
