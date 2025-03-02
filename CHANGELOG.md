@@ -2,6 +2,30 @@
 n.n.n / 2025-03-02
 ==================
 
+
+
+v4.1 / 2025-03-02
+=================
+
+  * feat(main): updating CHANGELOG for v4.1
+  * feat(exercise): exercise xcos added
+  * feat(lab04): lab added
+  * lab2 abd lab3 was added
+  * lab2 abd lab3 was added
+  * add lab1 and programs
+  * lab1 and pregrams
+  * feat(main): make course structure
+  * feat(main): make course structure
+  * Initial commit
+
+n.n.n / 2025-03-02
+==================
+
+
+
+n.n.n / 2025-03-02
+==================
+
   * feat(exercise): exercise xcos added
   * feat(lab04): lab added
   * lab2 abd lab3 was added
