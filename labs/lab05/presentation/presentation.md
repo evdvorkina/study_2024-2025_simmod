@@ -58,8 +58,8 @@ header-includes:
 
 $$
 \begin{cases}
-	\frac{dS}{dt} = - \frac{\beta I S}{N}, \\
-	\frac{dI}{dt} = \frac{\beta I S}{N} - \nu I, \\
+	\frac{dS}{dt} = - \beta I S, \\
+	\frac{dI}{dt} = \beta I S - \nu I, \\
 	\frac{dR}{dt} = \nu I,
 \end{cases}
 $$
